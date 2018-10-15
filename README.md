@@ -1,1 +1,1 @@
-The code writes the smallest number from the keyboard typing.The seres of numbers is stoped at writting a diferent charcater instead of a int
+The code writes the smallest number from the keyboard typing.The series of numbers is stopped when is writting a diferent character from the keyboard instead of int.
